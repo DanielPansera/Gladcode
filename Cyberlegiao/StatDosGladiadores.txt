@@ -4,11 +4,11 @@ STR 16
 INT 4
 
 Yoichi
-AGI
-STR
-INT
+AGI 12
+STR 7
+INT 14
 
 Gandalf
-AGI
-STR
-INTS
+AGI 13
+STR 5
+INT 14
